@@ -1,1 +1,1 @@
-link to resume respository goes here
+https://github.com/awk2145/resume
